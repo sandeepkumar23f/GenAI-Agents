@@ -6,3 +6,4 @@ langchain-google-genai
 langchain-huggingface
 python-dotenv
 pydantic
+langchain_community
